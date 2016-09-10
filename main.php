@@ -1,3 +1,7 @@
 <?
-print "Um dia eu entenderei o git";
+function entendendo() {}
+  return "Um dia eu entenderei o git"; 
+}
+
+print entendendo();
 ?>
