@@ -5,7 +5,8 @@ function entendendo() {}
     // "Ou não".
     // "Tá quase!".
     "Fiquei na dúvida denovo. Como sei que foi feito o commit mas não o push?".
-    ;
+    "Mudança para fazer o push".
+    "";
 }
 
 print entendendo();
